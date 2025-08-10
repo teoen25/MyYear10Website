@@ -23,9 +23,10 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
-    color: white;
+    color: rgb(255, 255, 255);
     text-align: center;
     position: relative;
+
 }
 
 /* BIG text styling for the hero section text */
@@ -36,10 +37,10 @@ img {
 
 /* nice big font on a banner style background */
 .topic-title{
-    color: white;
+    color: rgb(199, 240, 167);
     font-size: 2em;
     padding: 0.1em 3em;
-    background-color: rgb(71, 71, 71);
+    background-color: rgb(136, 163, 72);
 }
 
 /* Three column grid with a nice big gap */
