@@ -56,11 +56,12 @@ img {
 
 /* Styling for the individual topic cards rounded edges background color and a drop shadow */
 .topic-card{
-    background-color: rgb(67,112,87);
+    background-color: rgb(63,128,110);
     color: rgb(255, 255, 255);
     padding: 1em;
     border-radius: 0.5em;
-    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.2);
+    box-shadow: 4px 4px 4px rgba(0, 64, 48);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 /* Styling for the topic card titles */
@@ -74,8 +75,11 @@ img {
 
 /* Styling for a footer section to take a bit of spcae at the bottom of the page */
 .footer{
-    background-color: rgb(67,112,87);
+    background-color: rgb(47,82,73);
     color: rgb(227,222,97);
     text-align: right;
     padding: 3em 3em;
+}
+body {
+    background-color: rgb( 67 112 87);
 }
