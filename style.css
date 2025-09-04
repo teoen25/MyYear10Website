@@ -7,6 +7,7 @@ html {
     /* The Font Family- Really important!! */
     font-family:'Times New Roman', Times, serif;
     box-sizing: border-box;
+    background-color: rgb( 67 112 87);
 }
 
 /* reset for images to ensure they ar 100% of the parent container width */
@@ -80,6 +81,12 @@ img {
     text-align: right;
     padding: 3em 3em;
 }
-body {
-    background-color: rgb( 67 112 87);
+.game-content {
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 840px;
+    height: 480px;
+    border: none;
 }
